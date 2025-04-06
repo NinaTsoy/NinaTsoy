@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Money, My Choice](https://devpost.com/software/teamus-project?ref_content=my-projects-tab&ref_feature=my_projects)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ms.nina.tsoy@gmail.com</h3>
 <p align="left">
 </p>
 
